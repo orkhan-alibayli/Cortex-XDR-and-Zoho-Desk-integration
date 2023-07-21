@@ -1,0 +1,35 @@
+{
+    "Tenants":
+    {
+        "0" :{
+            "Tenant Name": "Test Company 1",
+            "Contact Name": "Orkhan Alibayli",
+            "Zoho Contact ID": "863848000001340001",
+            "Zoho Department ID": "863848000000006907",
+            "Contact Number": "phone number",
+            "Contact Email": "test@test.com",
+            "API key id": "4",
+            "API key": "API key of cortex xdr",
+            "Tenant URL": "https://api-example_company.xdr.eu.paloaltonetworks.com"
+        },
+
+        "1" :{
+            "Tenant Name": "Test Company 2",
+            "Contact Name": "Name Surname",
+            "Zoho Contact ID": "863848000000436002",
+            "Zoho Department ID": "863848000000006907",
+            "Contact Number": "phone number",
+            "Contact Email": "test@test.com",
+            "API key id": "34",
+            "API key": "API key of cortex xdr",
+            "Tenant URL": "https://api-example_company.xdr.eu.paloaltonetworks.com"
+        }
+    },
+
+    "Zoho":{
+        "Code": "Code from Zoho API console",
+        "Client ID": "Zoho Client ID API key",
+        "Client secret": "Zoho Client secret API key",
+        "Scope": "Desk.tickets.ALL"
+    }
+}
